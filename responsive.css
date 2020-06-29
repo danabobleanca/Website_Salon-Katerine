@@ -1,0 +1,1139 @@
+@media screen  and (max-width: 375px) {
+
+/*			INDEX			*/
+#header{
+	height:130px;
+}
+
+
+#date_contact img{
+	width:20px;
+	padding-top:10px;
+	
+}
+#date_contact p{
+	font-size:14px;
+	text-align:center
+}
+
+
+
+#logo img{
+	width:130px;
+	padding-top:20px;
+}
+
+
+
+#navigare #meniu{
+	display:block;
+	margin-bottom:50px;
+	z-index:100;
+}
+
+#navigare #meniu li{
+	width:100%;
+	display:block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	height:0px;
+	overflow:hidden;
+	z-index:100;
+	position:relative;
+	padding:0px 0px;
+}
+
+#navigare #meniu li.open{
+	height:auto;
+}
+
+
+
+#navigare #meniu li a{
+	width:100%;
+	display:inline-block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	border-top:0px solid black;
+	box-sizing:border-box;
+	font-size:23px;
+	z-index:100;
+	padding:8px 0px;
+}
+
+
+#despre{
+	display:inline-block;
+	width:100%;
+	height:200px;
+}
+
+#text_despre{
+	font-size:22px;
+	width:70%;
+	color:black;
+	padding-top:50px;
+	position:absolute;
+	left:15%;
+	opacity:0.9;
+	box-sizing:border-box;
+	
+}
+
+#text_servicii{
+	font-size:25px;
+	padding-top:20px;
+}
+#text_servicii img{
+	height:20px;
+	width:100%;
+	padding-right:0px;
+	box-sizing:border-box;
+}
+
+#servicii{
+	height:auto;
+	flex-wrap:wrap;
+	
+}
+
+#servicii div{
+	background-size:cover;
+	height:250px;
+	margin:20px 30px;
+	flex-basis:80%;
+	
+}
+
+.casute_servicii p{
+	margin-top:170px;
+	width:100%;
+	padding:25px 0px;
+	font-size:24px;
+}
+
+
+#despre_program_contact{
+	width:100%;
+	height:auto;
+	display:block;
+	
+}
+
+
+#program1_continut{
+	margin:0px 80px;
+	padding:15px 30px;
+	
+}
+
+
+/*			SERVICII			*/
+#pagina_servicii{
+	display:block;
+}
+
+#servicii_servicii{
+	width:100%;
+	display:inline-block;
+	margin:20px 0px;
+	box-sizing:border-box;
+	text-align:center;
+
+}
+
+#servicii_servicii div{
+	width:100%;
+	padding:10px 0px;	
+}
+
+#servicii_servicii  a{
+	font-size:12px;
+	
+}
+#servicii_servicii  img{
+display:none;
+}
+
+
+
+#servicii2{
+	display:flex;
+	flex:1;
+	text-align:center;
+	margin:10px 20px;
+}
+
+
+#servicii2 div{
+	flex-basis:100%;
+	margin-top:40px;
+	background-size:cover;
+	box-sizing:border-box;
+	text-align:Center;
+	
+}
+
+.casute_servicii1 p{
+	width:100%;
+}
+
+
+/*			PAGINA SERVICII		*/
+
+
+
+.servicii_katerine img{
+	width:100%;
+	float:right;
+	margin-left:30px;
+	margin-bottom:10px;
+}
+
+.servicii_katerine{
+		font-size:20px;
+	
+}
+
+#titlu_servicii{
+	font-size:30px;
+}
+
+
+/*			CONTACT			*/
+#pagina_contact{
+	display:inline-block;
+}
+#pagina_contact div{
+	padding:35px 35px;
+	font-size:20px;
+	text-align:center;
+}
+
+#contact_date img{
+	width:22px;
+	padding-right:10px;
+}
+
+
+#contact_date h1{
+	font-size:34px; 
+	padding-bottom:15px;
+} 
+
+#footer{
+	font-size:12px;
+}
+
+}
+@media screen  and (min-width: 375px) and (max-width: 667px){
+	
+	
+/*			INDEX			*/
+#header{
+	height:190px;
+
+}
+
+
+#date_contact img{
+	width:21px;
+	padding-top:10px;
+	
+}
+#date_contact p{
+	font-size:15px;
+	text-align:center;
+}
+
+
+
+#logo img{
+	width:200px;
+	padding-top:25px;
+}
+.toggle{
+	display:block;
+}
+
+#navigare #meniu{
+	display:block;
+	margin-bottom:50px;
+	z-index:100;
+}
+
+#navigare #meniu li{
+	width:100%;
+	display:block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	height:0px;
+	overflow:hidden;
+	z-index:100;
+	position:relative;
+	padding:0px 0px;
+}
+
+#navigare #meniu li.open{
+	height:auto;
+}
+
+
+
+#navigare #meniu li a{
+	width:100%;
+	display:inline-block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	border-top:0px solid black;
+	box-sizing:border-box;
+	font-size:23px;
+	z-index:100;
+	padding:8px 0px;
+}
+
+
+#despre{
+	display:inline-block;
+	width:100%;
+	height:230px;
+}
+
+#text_despre{
+	font-size:24px;
+	width:50%;
+	color:black;
+	padding-top:50px;
+	position:absolute;
+	left:17%;
+	opacity:0.9;
+	box-sizing:border-box;
+	
+}
+
+#text_servicii{
+	font-size:27px;
+	padding-top:20px;
+}
+#text_servicii img{
+	height:25px;
+	width:100%;
+	padding-right:0px;
+	box-sizing:border-box;
+}
+
+#servicii{
+	height:auto;
+	flex-wrap:wrap;
+	
+}
+
+#servicii div{
+	background-size:cover;
+	height:250px;
+	margin:20px 20px;
+	flex-basis:40%;
+	
+}
+
+.casute_servicii p{
+	margin-top:170px;
+	width:100%;
+	padding:25px 0px;
+	font-size:24px;
+}
+
+
+#despre_program_contact{
+	width:100%;
+	height:auto;
+	display:block;
+	
+}
+
+
+#program1_continut{
+	margin:0px 120px;
+	padding:15px 30px;
+	
+}
+
+
+/*			SERVICII			*/
+#pagina_servicii{
+	display:block;
+}
+
+#servicii_servicii{
+	width:100%;
+	display:inline-block;
+	margin:20px 0px;
+	box-sizing:border-box;
+	text-align:center;
+
+}
+
+#servicii_servicii div{
+	width:100%;
+	padding:10px 0px;	
+}
+
+#servicii_servicii  a{
+	font-size:12px;
+	
+}
+#servicii_servicii  img{
+display:none;
+}
+
+
+
+#servicii2{
+	display:flex;
+	flex:1;
+	text-align:center;
+	margin:10px 20px;
+}
+
+
+#servicii2 div{
+	flex-basis:45%;
+	justify-content:space-between;
+	margin-top:40px;
+	background-size:cover;
+	box-sizing:border-box;
+	text-align:Center;
+	
+}
+
+.casute_servicii1 p{
+	width:100%;
+}
+
+
+/*			PAGINA SERVICII		*/
+
+
+
+.servicii_katerine img{
+	width:100%;
+
+}
+
+.servicii_katerine{
+		font-size:20px;
+	
+}
+
+#titlu_servicii{
+	font-size:30px;
+}
+
+
+/*			CONTACT			*/
+#pagina_contact{
+	display:inline-block;
+}
+#pagina_contact div{
+	padding:35px 35px;
+	font-size:20px;
+	text-align:center;
+}
+
+#contact_date img{
+	width:22px;
+	padding-right:10px;
+}
+
+
+#contact_date h1{
+	font-size:34px; 
+	padding-bottom:15px;
+} 
+
+#footer{
+	font-size:13px;
+}
+}
+
+
+@media screen  and (min-width: 667px) and (max-width: 768px){
+	
+	
+	/*			INDEX			*/
+#header{
+	height:210px;
+}
+
+
+#date_contact img{
+	width:21px;
+	padding-top:10px;
+	
+}
+#date_contact p{
+	font-size:15px;
+	text-align:center;
+}
+
+
+
+#logo img{
+	width:260px;
+	padding-top:30px;
+}
+.toggle{
+	display:block;
+}
+
+#navigare #meniu{
+	display:block;
+	margin-bottom:50px;
+	z-index:100;
+}
+
+#navigare #meniu li{
+	width:100%;
+	display:block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	height:0px;
+	overflow:hidden;
+	z-index:100;
+	position:relative;
+	padding:0px 0px;
+}
+
+#navigare #meniu li.open{
+	height:auto;
+}
+
+
+
+#navigare #meniu li a{
+	width:100%;
+	display:inline-block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	border-top:0px solid black;
+	box-sizing:border-box;
+	font-size:23px;
+	z-index:100;
+	padding:8px 0px;
+}
+
+
+#despre{
+	display:inline-block;
+	width:100%;
+	height:250px;
+}
+
+#text_despre{
+	font-size:29px;
+	width:50%;
+	color:black;
+	padding-top:80px;
+	position:absolute;
+	left:18%;
+	opacity:0.9;
+	box-sizing:border-box;
+	
+}
+
+#text_servicii{
+	font-size:29px;
+	padding-top:20px;
+}
+#text_servicii img{
+	height:25px;
+	width:100%;
+	padding-right:0px;
+	box-sizing:border-box;
+}
+
+#servicii{
+	height:auto;
+	flex-wrap:wrap;
+	
+}
+
+#servicii div{
+	background-size:cover;
+	height:250px;
+	margin:20px 20px;
+	flex-basis:40%;
+	
+}
+
+.casute_servicii p{
+	margin-top:170px;
+	width:100%;
+	padding:25px 0px;
+	font-size:24px;
+}
+
+
+#despre_program_contact{
+	width:100%;
+	height:auto;
+	display:block;
+	
+}
+
+
+#program1_continut{
+	background-size:100% 100%;
+	margin:0px 250px;
+	padding:15px 30px;
+	
+}
+
+
+/*			SERVICII			*/
+#pagina_servicii{
+	display:block;
+}
+
+#servicii_servicii{
+	width:100%;
+	display:inline-block;
+	margin:20px 0px;
+	box-sizing:border-box;
+	text-align:center;
+
+}
+
+#servicii_servicii div{
+	width:100%;
+	padding:10px 0px;	
+}
+
+#servicii_servicii  a{
+	font-size:14px;
+	
+}
+#servicii_servicii  img{
+display:none;
+}
+
+
+
+#servicii2{
+	display:flex;
+	flex:1;
+	text-align:center;
+	margin:10px 20px;
+}
+
+
+#servicii2 div{
+	flex-basis:45%;
+	justify-content:space-between;
+	margin-top:40px;
+	background-size:cover;
+	box-sizing:border-box;
+	text-align:Center;
+	
+}
+
+.casute_servicii1 p{
+	width:100%;
+}
+
+
+/*			PAGINA SERVICII		*/
+
+
+
+.servicii_katerine img{
+	width:300px;
+	float:right;
+	margin-left:30px;
+	margin-bottom:10px;
+}
+
+.servicii_katerine{
+		font-size:20px;
+	
+}
+
+#titlu_servicii{
+	font-size:30px;
+}
+
+
+/*			CONTACT			*/
+#pagina_contact{
+	display:inline-block;
+}
+#pagina_contact div{
+	padding:35px 35px;
+	font-size:20px;
+	text-align:center;
+}
+
+#contact_date img{
+	width:22px;
+	padding-right:10px;
+}
+
+
+#contact_date h1{
+	font-size:34px; 
+	padding-bottom:15px;
+} 
+
+
+#footer{
+	font-size:14px;
+}
+}
+
+@media screen  and (min-width: 768px) and (max-width: 1024px){
+		
+	/*			INDEX			*/
+#header{
+	height:240px;
+}
+
+
+#date_contact img{
+	width:23px;
+	padding-top:10px;
+	
+}
+#date_contact p{
+	font-size:16px;
+	text-align:center;
+}
+
+
+
+#logo img{
+	width:430px;
+	padding-top:30px;
+}
+.toggle{
+	display:block;
+}
+
+#navigare #meniu{
+	display:block;
+	margin-bottom:50px;
+	z-index:100;
+}
+
+#navigare #meniu li{
+	width:100%;
+	display:block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	height:0px;
+	overflow:hidden;
+	z-index:100;
+	position:relative;
+	padding:0px 0px;
+}
+
+#navigare #meniu li.open{
+	height:auto;
+}
+
+
+
+#navigare #meniu li a{
+	width:100%;
+	display:inline-block;
+	float:left;
+	margin-bottom:0px;
+	margin-top:0px;
+	border-top:0px solid black;
+	box-sizing:border-box;
+	font-size:23px;
+	z-index:100;
+	padding:8px 0px;
+}
+
+
+#despre{
+	display:inline-block;
+	width:100%;
+	height:300px;
+}
+
+#text_despre{
+	font-size:38px;
+	width:48%;
+	color:black;
+	padding-top:100px;
+	position:absolute;
+	left:16%;
+	opacity:0.9;
+	box-sizing:border-box;
+	
+}
+
+#text_servicii{
+	font-size:30px;
+	padding-top:20px;
+}
+#text_servicii img{
+	height:32px;
+	width:100%;
+	padding-right:0px;
+	box-sizing:border-box;
+}
+
+#servicii{
+	height:auto;
+	flex-wrap:wrap;
+	
+}
+
+#servicii div{
+	background-size:cover;
+	height:250px;
+	margin:20px 20px;
+	flex-basis:40%;
+	
+}
+
+.casute_servicii p{
+	margin-top:170px;
+	width:100%;
+	padding:25px 0px;
+	font-size:24px;
+}
+
+
+#despre_program_contact{
+	width:100%;
+	height:auto;
+	display:block;
+	
+}
+
+
+#program1_continut{
+	margin:0px 300px;
+	padding:15px 30px;
+	
+}
+
+
+/*			SERVICII			*/
+#pagina_servicii{
+	display:block;
+}
+
+#servicii_servicii{
+	width:100%;
+	display:inline-block;
+	margin:20px 0px;
+	box-sizing:border-box;
+	text-align:center;
+
+}
+
+#servicii_servicii div{
+	width:100%;
+	padding:12px 0px;	
+}
+
+#servicii_servicii  a{
+	font-size:15px;
+	
+}
+#servicii_servicii  img{
+display:none;
+}
+
+
+
+#servicii2{
+	display:flex;
+	flex:1;
+	text-align:center;
+	margin:10px 20px;
+}
+
+
+#servicii2 div{
+	flex-basis:45%;
+	justify-content:space-between;
+	margin-top:40px;
+	background-size:cover;
+	box-sizing:border-box;
+	text-align:Center;
+	
+}
+
+.casute_servicii1 p{
+	width:100%;
+}
+
+
+/*			PAGINA SERVICII		*/
+
+
+
+.servicii_katerine img{
+	width:350px;
+	float:right;
+	margin-left:30px;
+	margin-bottom:10px;
+}
+
+.servicii_katerine{
+		font-size:20px;
+	
+}
+
+#titlu_servicii{
+	font-size:30px;
+}
+
+
+/*			CONTACT			*/
+#pagina_contact{
+	display:inline-block;
+}
+#pagina_contact div{
+	padding:35px 35px;
+	font-size:20px;
+	text-align:center;
+}
+
+#contact_date img{
+	width:22px;
+	padding-right:10px;
+}
+
+
+#contact_date h1{
+	font-size:34px; 
+	padding-bottom:15px;
+} 
+
+
+#footer{
+	font-size:14px;
+}
+}
+@media screen  and (min-width: 1024px) and (max-width: 1200px){
+
+#logo{
+	top:25%;
+}
+
+
+
+#despre{
+	height:400px;
+}
+#text_despre{
+	font-size:55px;
+	width:50%;
+	padding-top:150px;
+	left:16%;
+	
+}
+#text_servicii{
+	font-size:38px;
+}
+#text_servicii img{
+	height:38px;
+}
+
+
+
+
+
+#program1_continut{
+	margin:0px 100px;
+	padding:15px 30px;
+	
+}
+#contact1_continut {
+	padding-top:10px;
+}
+
+#contact1_continut img{
+	width:35px;
+	margin-bottom:5px;
+}
+
+#adresa{
+	padding-bottom:35px;
+}
+
+
+/*			SERVICII			*/
+#pagina_servicii{
+	display:flex;
+	
+}
+#servicii_servicii{
+	flex:1;
+	margin:40px 40px;
+	box-sizing:border-box;
+}
+
+#servicii_servicii div{
+	display:block;
+	width:100%;
+	padding:30px 0px;
+	padding-left:25px;
+
+	
+	
+}
+
+#servicii_servicii  a{
+	font-size:16px;
+	text-shadow:1px 1px 20px black;
+	
+}
+#servicii_servicii  img{
+	width:21px;
+	float:right;
+	clear:both;
+	padding-right:15px;
+}
+
+.casute_servicii1 p{
+	margin-top:160px;
+	width:120px;
+	padding:25px 0px;
+	font-size:24px;
+}
+
+#servicii2{
+	display:flex;
+	flex-wrap:wrap;
+	flex:3;
+	justify-content:space-between;
+	margin-right:50px;
+	margin-bottom:30px;
+}
+
+
+#servicii2 div{
+	flex-basis:30%;
+	margin-top:40px;
+	background-size:cover;
+	box-sizing:border-box;
+	text-align:Center;
+	
+}
+
+#frizerie2, #coafor2, #manichiura2, #makeup2, #cosmetica2, #tatuaje2{
+	flex:3;
+	background-color:#070808;
+	color:white;
+	margin-top:40px;
+	margin-bottom:30px;
+
+}
+.servicii_katerine img{
+	width:400px;
+	float:right;
+	margin-left:30px;
+	margin-bottom:10px;
+}
+
+.servicii_katerine{
+		font-family:Pristina;
+		padding:30px;
+		font-size:25px;
+		box-sizing:border-box;
+}
+
+#titlu_servicii{
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:40px;
+	font-size:35px;
+	font-weight:bold;
+}
+
+#galerie2{
+	flex:3;
+}
+
+/*			GALERIE			*/
+
+
+
+#galerie2{
+	
+	margin:40px 0px;
+	text-align:Center;
+	
+}
+
+#galerie2 a{
+	margin-left:3px;
+}
+
+#galerie2 img{
+	filter:grayscale(100%);
+	transition:0.8s;
+	border:2px solid white;
+}
+#galerie2 img:hover{
+	filter:grayscale(0%);
+	transform:scale(1.1);
+}
+
+/*			CONTACT			*/
+#pagina_contact{
+	display:flex;
+	background-image:url(imagini/contact_bg.jpg);
+	background-size:cover;
+}
+#pagina_contact div{
+	flex:1;
+	padding:30px 30px;
+	font-family:Pristina;
+	font-size:22px;
+	font-weight:bold;
+	text-align:justify;
+
+}
+
+#contact_date img{
+	width:23px;
+	padding-right:10px;
+}
+#contact_date p a{
+	text-decoration:none;
+	color:white;
+}
+
+#contact_date h1{
+	font-size:38px; 
+	padding-bottom:15px;
+} 
+
+#footer{
+	width:100%;
+	color:white;
+	text-align:center;	
+	padding:20px 0px;
+}
+
+#footer a{
+	text-decoration:none;
+	color:white;
+}
+	
+}
